@@ -1,6 +1,6 @@
 # Secure forward proxy for the Caddy web server
 
-This package registers the `http.handlers.forward_proxy` module, which acts as an HTTPS proxy for accessing remote networks.
+This package registers the `http.handlers.forward_proxy` module, which acts as an HTTPS proxy for accessing remote networks.e
 
 ## :warning: Experimental!
 
